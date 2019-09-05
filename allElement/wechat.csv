@@ -1,0 +1,5 @@
+备注,xpath,.//android.view.View[contains(@text,"测试")]
+输入框,xpath,.//android.widget.EditText[@index='0']
+发送,xpath,.//android.widget.Button[@text="发送"]
+点击链接,xpath,//android.widget.RelativeLayout[@index="+str(num-1)+"]
+
